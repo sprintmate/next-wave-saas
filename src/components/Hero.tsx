@@ -20,7 +20,7 @@ const Hero: React.FC = () => {
       </div>
 
       <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-        <div className="space-y-8">
+        <div className="space-y-8 mt-16">
           {/* Main Title */}
           <h1 className="text-5xl md:text-7xl font-bold text-gray-900 leading-tight">
             <span className="block">{siteConfig.hero.title}</span>
